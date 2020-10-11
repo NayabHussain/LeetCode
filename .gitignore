@@ -1,0 +1,10 @@
+.project
+.settings
+.idea
+*.iml
+.DS_Store
+target
+.checkstyle
+.project
+.classpath
+bin
