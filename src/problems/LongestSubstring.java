@@ -9,7 +9,7 @@ public class LongestSubstring {
 
 		String str = "abcabbe";
 
-		System.out.println("Longest substring length is " + lengthOfLongestSubstring(str));
+		System.out.println("Longest substring without repeating characters length is " + lengthOfLongestSubstring(str));
 
 	}
 
